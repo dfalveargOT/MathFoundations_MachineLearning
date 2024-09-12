@@ -1,6 +1,6 @@
 # Mathematical Foundations for Machine Learning
 
-This course provides an in-depth exploration of the mathematical principles essential for understanding and applying machine learning algorithms. Key topics include the mathematical foundations of regression, classification, clustering, and dimensionality reduction in both supervised and unsupervised learning contexts. The course aims to bridge the gap between traditional mathematics courses and machine learning applications, offering students a cohesive learning experience with minimal prerequisites.
+This course offers a comprehensive exploration of the mathematical principles critical for mastering and deploying machine learning algorithms. It covers the foundational mathematics underlying key machine learning techniques, including regression, classification, clustering, and dimensionality reduction, as well as advanced topics such as contrastive learning. The course is designed to bridge the gap between theoretical mathematics and practical machine learning, equipping students with both the deep mathematical understanding and the hands-on experience necessary to implement and apply machine learning models in diverse real-world scenarios.
 
 ## Key Modules
 
