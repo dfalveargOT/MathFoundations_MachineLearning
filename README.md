@@ -39,8 +39,10 @@ C. Yu and S. Gao, "Reducing collision checking for sampling-based motion plannin
 using graph neural networks," in Advances in Neural Information Processing
 Systems, vol. 34, pp. 4274–4289, 2021.
 
-![arm](assets/project1.png)
-![arm](assets/project2.png)
+<div style="display: flex; flex-direction: row;">
+  <img src="assets/project1.png" alt="" width="300"/>
+  <img src="assets/project2.png" alt="" width="300"/>
+</div>
 
 ## Course Content:
 
@@ -54,19 +56,19 @@ Systems, vol. 34, pp. 4274–4289, 2021.
 - Proximal gradient methods and automatic differentiation.
 - Optimality conditions.
 
-![arm](assets/optimization.png)
+<img src="assets/optimization.png" alt="" width="300"/>
 
 ### 3. Statistical Foundations
 - Random variables, Gaussian distributions, and empirical risk minimization.
 - Mixture models, maximal likelihood estimation.
 - Decision theory and Gaussian discriminant analysis.
 
-![arm](assets/kernel.png)
+<img src="assets/kernel.png" alt="" width="300"/>
 
 ### 4. Regression and Classification
 - Logistic regression, least squares, ridge, and Lasso regression.
 
-![arm](assets/regression.png)
+<img src="assets/regression.png" alt="" width="300"/>
 
 ### 5. Neural Networks
 - Multilayer perceptrons, activation functions, and deep networks.
@@ -74,18 +76,19 @@ Systems, vol. 34, pp. 4274–4289, 2021.
 - Convolutional networks and recurrent networks.
 - Transformer architectures.
 
-![arm](assets/NN.png)
-![arm](assets/transformer.png)
-![arm](assets/transformer2.png)
+<div style="display: flex; flex-direction: row;">
+  <img src="assets/NN.png" alt="" width="300"/>
+  <img src="assets/transformer.png" alt="" width="300"/>
+  <img src="assets/transformer2.png" alt="" width="300"/>
+</div>
 
 ### 6. Dimensionality Reduction and Clustering
 - Principal component analysis (PCA), matrix sketching, and randomized algorithms for SVD.
 - Rank-k approximation, Eckart-Young bounds, and matrix completion problems.
 - K-means clustering, Voronoi diagrams, and nearest neighbor classification.
 
-
 ### 8. Graph Representations and Spectral Clustering
 - Graph Laplacian and Fiedler vectors.
 - Spectral clustering with multiple eigenvectors.
 
-![arm](assets/clustering.png)
+<img src="assets/clustering.png" alt="" width="300"/>
